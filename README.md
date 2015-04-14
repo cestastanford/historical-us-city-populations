@@ -2,8 +2,8 @@
 
 This dataset is a compilation of United States cities populations between 1790 and 2010 for every city above 2,500 people.
 
-Erik Steiner, [Spatial History Project], [Center for Spatial and Textual Analysis], Stanford University  
-Jason A. Heppler, [Department of History] and [Center for Spatial and Textual Analysis], Stanford University
+Erik Steiner, [Spatial History Project][], [Center for Spatial and Textual Analysis][], Stanford University  
+Jason A. Heppler, [Department of History][] and [Center for Spatial and Textual Analysis][], Stanford University
 
 ## Use and Description of the Data
 
@@ -15,7 +15,7 @@ If you use this data in your research or teaching, please use this suggested cit
 
 > U.S. Census Bureau and Erik Steiner, Spatial History Project, Center for Spatial and Textual Analysis, Stanford University
 
-If you have questions about the data, please contact [Erik Steiner] or [Jason Heppler].
+If you have questions about the data, please contact [Erik Steiner][] or [Jason Heppler][].
 
 ## Contributions
 
