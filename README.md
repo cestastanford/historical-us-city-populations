@@ -25,8 +25,8 @@ Contributions are more than welcome. Please submit a pull request or e-mail us.
 
 Any code or scripts that appear here are available under the MIT License. Scripts will indicate their license. The data compiled here is public domain and falls within fair use. 
 
-    [Spatial History Project]: http://spatialhistory.stanford.edu
-    [Center for Spatial and Textual Analysis]: http://cesta.stanford.edu
-    [Department of History]: http://history.stanford.edu
-    [Erik Steiner]: mailto:ebs110@stanford.edu
-    [Jason Heppler]: mailto:jheppler@stanford.edu
+  [Spatial History Project]: http://spatialhistory.stanford.edu
+  [Center for Spatial and Textual Analysis]: http://cesta.stanford.edu
+  [Department of History]: http://history.stanford.edu
+  [Erik Steiner]: mailto:ebs110@stanford.edu
+  [Jason Heppler]: mailto:jheppler@stanford.edu
