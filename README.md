@@ -27,7 +27,7 @@ San Francisco data for 1850 is based on an estimate in Michael Haines database; 
 
 If a city passed 2500 and fell back below that threshold, that city should be included in the data. Cities were first noted in the US Census dataset when they passed the 2500 threshold. For populations under 2500, data were obtained from Populstat and state data centers.
 
-Cities that never passed 2500 are generally not included in this dataset, with the exception of those noted by Populstat. 
+Cities that never passed 2500 are generally not included in this dataset, with the exception of those noted by Populstat or state data centers. 
 
 Populstat includes roughly 300 Incorporated Cities, CDPs, MCDs, Townships and historical places not noted in the US Census dataset. Special care should be taken when using these as they are incomplete and may double count populations noted in incorporated cities in the Census data.
 
