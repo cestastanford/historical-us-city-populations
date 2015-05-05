@@ -1,7 +1,7 @@
 #Links to Potential Sources for Additional Cities and Populations
 
 Alabama			
-Alaska	http://www.populstat.info/Americas/usas-akt.htm	1900	2000
+Alaska	- http://www.populstat.info/Americas/usas-akt.htm (1900-2000)
 Arizona	http://www.azcommerce.com/doclib/econinfo/FILES/census_decennial.pdf	1860	2000
 Arkansas	http://www.aiea.ualr.edu/census/other/history.html	1840	2000
 California	http://www.dof.ca.gov/research/demographic/reports/census-surveys/historical_1850-2000/	1850	2000
