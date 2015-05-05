@@ -7,7 +7,7 @@ Jason A. Heppler, [Department of History][] and [Center for Spatial and Textual 
 
 ## Description of the Data
 
-The primary source for this data was a US Census Bureau dataset of ~7500 incorporated cities whose populations surpassed 2500 people at some point in their existence. Additional cities were added from a variety of sources including State Data Centers (Oregon, California, and Iowa) and Jan Lahmeyer (http://www.populstat.info/). We welcome additional contributions from local sources and other state data centers we did not consult. Please see list of state-based sources for possible additions to this data (link).
+The primary source for this data was a US Census Bureau dataset of ~7500 incorporated cities whose populations surpassed 2500 people at some point in their existence. Additional cities were added from a variety of sources including State Data Centers (Oregon, California, and Iowa) and Jan Lahmeyer (http://www.populstat.info/). We welcome additional contributions from local sources and other state data centers we did not consult. Please see list of state-based sources for possible additions to this data (https://github.com/cestastanford/historical-us-city-populations/blob/master/potential-sources.md).
 
 Cities were first noted in the US Census dataset when they passed the 2500 person threshold; additional cities below that threshold have been added on an spotty basis from State Data Centers or Populstat (Jan Lahmeyer). Those sources also provide populations for cities before they reached the 2500 threshold and for dates when they dropped below it later, but the coverage for these is uneven.
 
