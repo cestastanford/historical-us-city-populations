@@ -7,7 +7,13 @@ Jason A. Heppler, [Department of History][] and [Center for Spatial and Textual 
 
 ## Description of the Data
 
-The primary source for this data was a US Census Bureau dataset of ~7500 incorporated cities whose populations surpassed 2500 people at some point in their existence. Additional cities were added from a variety of sources including Jan Lahmeyer (http://www.populstat.info/), and state data centers. 
+The primary source for this data was a US Census Bureau dataset of ~7500 incorporated cities whose populations surpassed 2500 people at some point in their existence. Additional cities were added from a variety of sources including State Data Centers (Oregon, California, and Iowa) and Jan Lahmeyer (http://www.populstat.info/). We welcome additional contributions from local sources and other state data centers we did not consult. Please see list of state-based sources for possible additions to this data (link).
+
+Cities were first noted in the US Census dataset when they passed the 2500 person threshold; additional cities below that threshold have been added on an spotty basis from State Data Centers or Populstat (Jan Lahmeyer). Those sources also provide populations for cities before they reached the 2500 threshold and for dates when they dropped below it later, but the coverage for these is uneven.
+
+Disagreements between population values from different sources were reconciled in an rational but ad-hoc manner, giving preference to the US Census Bureau data unless a finer precision number was available from an alternative source, the general population trend indicated otherwise, or the Census data appeared inaccurate in another way (e.g. typos).
+
+Populstat data (Jan Lahmeyer) includes roughly 300 CDPs, MCDs, Townships and historical places not noted in the US Census dataset. Special care should be taken when using these as they are incomplete and may double count populations noted in incorporated cities in the Census data.
 
 Census-derived entity names are those as of Census 2010.   It should be noted that some entities had name changes, so may have multiple records to cover different time spans.  If a place had a substantial population in early decades and then no longer has data, it may be due to a name change, disincorporation, annexation by another city, or change in universe criteria between 1940 and 1950, i.e., focus on incorporated places rather than all large urban places.
 
@@ -25,15 +31,7 @@ Data for 7 consolidated cities shows the *balance* record only.  Cities are:   I
 
 San Francisco data for 1850 is based on an estimate in Michael Haines database; Census returns for Contra Costa, San Francisco, and Santa Clara counties for 1850 were lost. 
 
-If a city passed 2500 and fell back below that threshold, that city should be included in the data. Cities were first noted in the US Census dataset when they passed the 2500 threshold. For populations under 2500, data were obtained from Populstat and state data centers.
-
-Cities that never passed 2500 are generally not included in this dataset, with the exception of those noted by Populstat or state data centers. 
-
-Populstat includes roughly 300 Incorporated Cities, CDPs, MCDs, Townships and historical places not noted in the US Census dataset. Special care should be taken when using these as they are incomplete and may double count populations noted in incorporated cities in the Census data.
-
-Disagreements between population values from different sources were reconciled in an ad-hoc manner, giving preference to the US Census Bureau data unless the trends indicated otherwise or a finer precision number was available from an alternative source.
-
-Latitude/Longitude data are provided are approximations. US Census Bureau coordinates are the same as those published in the Census' Gazetteer, intended for regional mapping. "Bing" coordinates were derived from the Bing geocoder.
+Latitude/Longitude data are provided are unofficial approximations. US Census Bureau coordinates are the same as those published in the Census' Gazetteer, intended for regional mapping. "Bing" coordinates were derived from the Bing geocoding service.
 
 ## Citation
 
