@@ -4,26 +4,25 @@
 
 
 ####Alaska
-http://www.populstat.info/Americas/usas-akt.htm (1900-2000)
+
 
 ####Arizona
-http://www.azcommerce.com/doclib/econinfo/FILES/census_decennial.pdf (1860-2000)
+
 
 ####Arkansas
-http://www.aiea.ualr.edu/census/other/history.html (1840-2000)
+http://www.aiea.ualr.edu/arkansas-census-data/161-arkansas-historical-census-data.html (1840-2000) 
 
 ####California
-http://www.dof.ca.gov/research/demographic/reports/census-surveys/historical_1850-2000/ (1850-2000)
+http://www.dof.ca.gov/research/demographic/reports/census-surveys/historical_1850-2000/ (1850-2000) - integrated
 
 ####Colorado
-http://www.dola.state.co.us/demog_webapps/population_census (1870-2000)
+http://www.dola.state.co.us/demog_webapps/population_census (1870-2000) - integrated
 
 ####Connecticut
 
 ####Delaware
 
 ####District of Columbia
-http://www.populstat.info/ (1790-2000)
 
 ####Florida
 
