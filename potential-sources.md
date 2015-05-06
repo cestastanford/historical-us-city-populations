@@ -10,13 +10,13 @@
 
 
 ####Arkansas
-http://www.aiea.ualr.edu/arkansas-census-data/161-arkansas-historical-census-data.html (1840-2000) 
+http://www.aiea.ualr.edu/arkansas-census-data/161-arkansas-historical-census-data.html (1840-2000) - data has been integrated
 
 ####California
-http://www.dof.ca.gov/research/demographic/reports/census-surveys/historical_1850-2000/ (1850-2000) - integrated
+http://www.dof.ca.gov/research/demographic/reports/census-surveys/historical_1850-2000/ (1850-2000) - data has been integrated
 
 ####Colorado
-http://www.dola.state.co.us/demog_webapps/population_census (1870-2000) - integrated
+http://www.dola.state.co.us/demog_webapps/population_census (1870-2000) - data has been integrated
 
 ####Connecticut
 
@@ -38,7 +38,7 @@ http://www.dola.state.co.us/demog_webapps/population_census (1870-2000) - integr
 http://www.stats.indiana.edu/topic/population.asp (1900-2000)
 
 ####Iowa
-http://data.iowadatacenter.org/browse/places.html (1850-2000)
+http://data.iowadatacenter.org/browse/places.html (1850-2000) - data has been integrated
 
 ####Kansas
 http://www.ipsr.ku.edu/ksdata/#ksa (1900-2000)
@@ -48,14 +48,14 @@ http://www.ipsr.ku.edu/ksdata/#ksa (1900-2000)
 ####Louisiana
 
 ####Maine
-http://library.umaine.edu/census/townsearch.htm (1790-2000)
+http://library.umaine.edu/census/townsearch.htm (1790-2000) - bad link
 
 ####Maryland
 
 ####Massachusetts
 
 ####Michigan
-http://www.nwmcog.org/state.html (1890-1990)
+http://www.nwmcog.org/state.html (1890-1990) - not digitized?
 
 ####Minnesota
 
