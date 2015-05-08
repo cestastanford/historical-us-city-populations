@@ -9,7 +9,7 @@ Jason A. Heppler, [Department of History][] and [Center for Spatial and Textual 
 
 The primary source for this data was a US Census Bureau dataset of ~7500 incorporated cities whose populations surpassed 2500 people at some point in their existence. Additional cities were added from a variety of sources including State Data Centers (Oregon, California, and Iowa) and Jan Lahmeyer (http://www.populstat.info/). We welcome additional contributions from local sources and other state data centers we did not consult. Please see list of state-based sources for possible additions to this data (https://github.com/cestastanford/historical-us-city-populations/blob/master/potential-sources.md).
 
-Cities were first noted in the US Census dataset when they passed the 2500 person threshold; additional cities below that threshold have been added on an spotty basis from State Data Centers or Populstat (Jan Lahmeyer). Those sources also provide populations for cities before they reached the 2500 threshold and for dates when they dropped below it later, but the coverage for these is uneven.
+Cities were first noted in the US Census Bureau dataset when they passed the 2500 person threshold; additional cities below that threshold have been added on an spotty basis from State Data Centers or Populstat (Jan Lahmeyer). Those sources also provide populations for cities before they reached the 2500 threshold and for dates when they dropped below it later, but the coverage for these is uneven.
 
 Disagreements between population values from different sources were reconciled in an rational but ad-hoc manner, giving preference to the US Census Bureau data unless a finer precision number was available from an alternative source, the general population trend indicated otherwise, or the Census data appeared inaccurate in another way (e.g. typos).
 
@@ -19,11 +19,11 @@ Census-derived entity names are those as of Census 2010.   It should be noted th
 
 Census Bureau Data for 1790-1940 include places of 2500+, regardless of incorporation status.  From 1950 on, the US Census focused on incorporated cities (except for the inclusion of CDPs in Hawaii since the state does not allow incorporation). Determination of incorporation status is based on the GARM and may vary between states.
 
-Historical CDP populations are not rolled into adjacent incorporated places.  
+Historical CDP populations are not rolled into adjacent incorporated places, with the exception of CDPs that were eventually incorporated.
 
 VA independent cities:  data are shown in the independent city record for the years prior to independent city status.  In the original volumes, city populations were listed under the county in which they were located.
 
-County information retained in the file is for general reference only, to differentiate between entities in the same state that have the same name.  County information is incomplete.  For cities located in multiple counties, only one county name is included.
+County information retained in the file is for general reference only, to differentiate between entities in the same state that have the same name.  County information is incomplete.  For cities located in multiple counties, only one county name is included (generally the larger part). Some duplicate city listings show different counties and still need to be resolved as to whether these are parts, errors, or historical county names.
 
 Honolulu data for 2010 represents the data for Urban Honolulu and East Honolulu CDPs.  
 
