@@ -63,10 +63,12 @@ http://www.nwmcog.org/state.html (1890-1990) - not digitized?
 
 ####Missouri
 http://mcdc2.missouri.edu/trends/historical.shtml (1900-1990)
+
 http://mcdc.missouri.edu/trends/tables/cities1900-1990.pdf (pdf)
 
 ####Montana
 http://www.ceic.mt.gov/HistoricalPopData.asp (1890-2000) - bad link
+
 http://web.archive.org/web/20130130224823/http://ceic.mt.gov/historicalpopdata.asp (wayback link)
 
 ####Nebraska
@@ -74,6 +76,7 @@ http://www.neded.org/content/view/428/714/ (1860-2000) - ?
 
 ####Nevada
 http://nsla.nevadaculture.org/index.php?option=com_content&view=article&id=1036:nevada-place-names-populations-1860-2000&catid=140:state-data-center (1860-2000)
+
 http://blackrockdesert.org/wiki/index.php?title=Nevada_Place_Names_Population_1860-2000 (1860-2000)
 
 ####New Hampshire
@@ -99,7 +102,7 @@ http://www.okcommerce.gov/Data-And-Research/Downloads/Decennial-Census-Data (189
 ####Pennsylvania
 
 ####Rhode Island
-http://www.planning.state.ri.us/census/census/pdf%20files/pdf/City1790-2000.PDF (1790-2000)
+http://www.planning.state.ri.us/census/census/pdf%20files/pdf/City1790-2000.PDF (1790-2000) - bad link
 
 ####South Carolina
 
