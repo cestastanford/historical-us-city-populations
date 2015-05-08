@@ -1,4 +1,4 @@
-# United States Historical Cities Populations, 1790-2010
+# United States Historical City Populations, 1790-2010
 
 This dataset is a compilation of United States historical city populations decennially between 1790 and 2010. We are putting all of the data into a single repository so it can be accessible and improved upon by other researchers.
 
