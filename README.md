@@ -52,5 +52,6 @@ Any code or scripts that appear here are available under the MIT License. Script
   [Spatial History Project]: http://spatialhistory.stanford.edu
   [Center for Spatial and Textual Analysis]: http://cesta.stanford.edu
   [Department of History]: http://history.unomaha.edu
+  [UNO Libraries]: http://library.unomaha.edu
   [Erik Steiner]: mailto:ebs110@stanford.edu
   [Jason Heppler]: mailto:jheppler@unomaha.edu
