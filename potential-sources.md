@@ -112,6 +112,7 @@ http://www.planning.state.ri.us/census/census/pdf%20files/pdf/City1790-2000.PDF 
 
 ####Texas
 http://www.texasalmanac.com/population/population-city-history.pdf (1850-2000)
+https://texasalmanac.com/sites/default/files/images/CityPopHist%20web.pdf
 
 ####Utah
 http://governor.utah.gov/dea/Historical_Census_Data/CityCountyBrief/HistoricCityPop.pdf (1890-2000)
