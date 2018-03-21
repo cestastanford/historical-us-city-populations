@@ -73,6 +73,7 @@ http://web.archive.org/web/20130130224823/http://ceic.mt.gov/historicalpopdata.a
 
 ####Nebraska
 http://www.neded.org/content/view/428/714/ (1860-2000) - ?
+https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1030&context=cparpublications
 
 ####Nevada
 http://nsla.nevadaculture.org/index.php?option=com_content&view=article&id=1036:nevada-place-names-populations-1860-2000&catid=140:state-data-center (1860-2000)
